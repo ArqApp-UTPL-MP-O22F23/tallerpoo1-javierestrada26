@@ -12,8 +12,8 @@ package trabajo1;
 public class MainComplejo {
     
     public static void main(String[] args) {
-        Complejo n1 =  new Complejo(4, 7);
-        Complejo n2 = new Complejo(2, 8);
+        Complejo n1 =  new Complejo(77, 2);
+        Complejo n2 = new Complejo(24, 18);
         
         Complejo sumaComplejo =  n1.Suma(n2);
         Complejo resstComplejo =  n1.Resta(n2);
